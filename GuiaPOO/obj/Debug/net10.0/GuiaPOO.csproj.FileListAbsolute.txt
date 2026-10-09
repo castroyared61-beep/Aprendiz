@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\obj\Debug\net10.0\GuiaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\obj\Debug\net10.0\GuiaPOO.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\obj\Debug\net10.0\GuiaPOO.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\obj\Debug\net10.0\GuiaPOO.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\obj\Debug\net10.0\GuiaPOO.sourcelink.json
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\bin\Debug\net10.0\GuiaPOO.exe
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\bin\Debug\net10.0\GuiaPOO.deps.json
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\bin\Debug\net10.0\GuiaPOO.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\bin\Debug\net10.0\GuiaPOO.dll
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\bin\Debug\net10.0\GuiaPOO.pdb
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\obj\Debug\net10.0\GuiaPOO.dll
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\obj\Debug\net10.0\refint\GuiaPOO.dll
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\obj\Debug\net10.0\GuiaPOO.pdb
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\obj\Debug\net10.0\GuiaPOO.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Aprendiz\GuiaPOO\obj\Debug\net10.0\ref\GuiaPOO.dll
